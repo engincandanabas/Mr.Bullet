@@ -1,0 +1,9 @@
+com.SimurgUniverse.MrBullet
+id unitySurfaceView
+mipmap app_icon
+mipmap app_icon_round
+string app_name
+string game_view_content_description
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector_Translucent

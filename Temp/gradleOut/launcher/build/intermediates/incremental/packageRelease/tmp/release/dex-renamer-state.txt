@@ -1,0 +1,4 @@
+#Mon Dec 06 17:55:47 EET 2021
+base.0=F\:\\UnityProjelerim\\MrBullet\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
